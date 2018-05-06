@@ -1,0 +1,63 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+    text-align: center;
+}
+
+.rText{
+    color: red;
+}
+
+body {
+    margin: 1em;
+    font: 1.2em/1.3em 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Roboto-Light', 'Roboto Light', 'Roboto', 'Segoe UI Web Light', 'Segoe UI Light', 'Segoe UI Web Regular', 'Segoe UI', Helvetica, Arial, sans-serif;
+    color: #000;
+}
+
+.firstBlock{
+  height: 200px;
+  width: 100%;
+    background: #88aae2;
+}
+.firstBlock:hover{
+	background: violet;
+}
+
+.secondBlock{
+    height: 600px;
+    min-width: 100px;
+    background: yellow;
+}
+.secondBlock:hover{
+  background: violet;
+}
+
+.thirdBlock{
+  height: 200px;
+    background: #88aae2;
+}
+.thirdBlock:hover{
+  background: violet;
+}
+
+.fourthBlock{
+    height: 600px;
+  width:80%;
+}
+.fourthBlock:hover{
+  background: violet;
+}
+
+.fifthBlock{
+    height: 600px;
+    background: yellow;
+    min-width: 100px;
+}
+.fifthBlock:hover{
+  background: violet;
+}
